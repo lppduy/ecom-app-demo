@@ -1,7 +1,7 @@
 {
   "main.css": "/ecom-app-demo/static/css/main.6ed4be3d.chunk.css",
-  "main.js": "/ecom-app-demo/static/js/main.e2e4fcbb.chunk.js",
-  "main.js.map": "/ecom-app-demo/static/js/main.e2e4fcbb.chunk.js.map",
+  "main.js": "/ecom-app-demo/static/js/main.e56f97fb.chunk.js",
+  "main.js.map": "/ecom-app-demo/static/js/main.e56f97fb.chunk.js.map",
   "static/js/1.6c33dd79.chunk.js": "/ecom-app-demo/static/js/1.6c33dd79.chunk.js",
   "static/js/1.6c33dd79.chunk.js.map": "/ecom-app-demo/static/js/1.6c33dd79.chunk.js.map",
   "static/js/2.62d3f7d8.chunk.js": "/ecom-app-demo/static/js/2.62d3f7d8.chunk.js",
@@ -16,6 +16,6 @@
   "static/media/product_5.png": "/ecom-app-demo/static/media/product_5.d5c0e34a.png",
   "static/css/main.6ed4be3d.chunk.css.map": "/ecom-app-demo/static/css/main.6ed4be3d.chunk.css.map",
   "index.html": "/ecom-app-demo/index.html",
-  "precache-manifest.9dc5d19f9c03322479e92e0710a5956c.js": "/ecom-app-demo/precache-manifest.9dc5d19f9c03322479e92e0710a5956c.js",
+  "precache-manifest.cd832ad2b35ee64bef918ac4daa5f2ec.js": "/ecom-app-demo/precache-manifest.cd832ad2b35ee64bef918ac4daa5f2ec.js",
   "service-worker.js": "/ecom-app-demo/service-worker.js"
 }

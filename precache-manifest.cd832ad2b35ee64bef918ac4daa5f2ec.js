@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "e2e4fcbb148928b23953",
+    "revision": "e56f97fb35224220946e",
     "url": "/ecom-app-demo/static/css/main.6ed4be3d.chunk.css"
   },
   {
-    "revision": "e2e4fcbb148928b23953",
-    "url": "/ecom-app-demo/static/js/main.e2e4fcbb.chunk.js"
+    "revision": "e56f97fb35224220946e",
+    "url": "/ecom-app-demo/static/js/main.e56f97fb.chunk.js"
   },
   {
     "revision": "6c33dd79bcd0ee5c1828",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/ecom-app-demo/static/media/product_5.d5c0e34a.png"
   },
   {
-    "revision": "2fbb29a1eaf36fa499768126b42a48df",
+    "revision": "78aa5adec14f42baedbbd790b56d62a9",
     "url": "/ecom-app-demo/index.html"
   }
 ];
