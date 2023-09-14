@@ -2,6 +2,7 @@ import './App.css';
 import './css/custom.css';
 import './css/style.default.css';
 
+import React from 'react';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 
 import Footer from './Common/Footer/Footer';
